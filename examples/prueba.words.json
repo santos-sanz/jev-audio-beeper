@@ -1,0 +1,14 @@
+{
+  "language": "es",
+  "words": [
+    {"word":"Hola", "startMs":0, "endMs":420},
+    {"word":"esto", "startMs":440, "endMs":760},
+    {"word":"es", "startMs":780, "endMs":970},
+    {"word":"una", "startMs":990, "endMs":1190},
+    {"word":"prueba", "startMs":1210, "endMs":1680},
+    {"word":"mierda", "startMs":1850, "endMs":2350},
+    {"word":"seguimos", "startMs":2520, "endMs":3100},
+    {"word":"con", "startMs":3120, "endMs":3340},
+    {"word":"calma", "startMs":3360, "endMs":3820}
+  ]
+}
